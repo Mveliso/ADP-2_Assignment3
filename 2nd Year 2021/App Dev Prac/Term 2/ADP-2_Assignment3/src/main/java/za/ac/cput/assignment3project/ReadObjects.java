@@ -1,7 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * @author Mveliso Roto 214211983
+ * ADP2_Assignment-3
+ * June 2021
  */
 package za.ac.cput.assignment3project;
 
@@ -13,10 +13,6 @@ import java.io.ObjectInputStream;
 import java.util.Vector;
 import java.util.Iterator;
 
-/**i
- *
- * @author Lwazi George Tomson
- */
 public class ReadObjects {
        public static void main(String args[])  {
     File f = new File("customerOutFile.txt");
